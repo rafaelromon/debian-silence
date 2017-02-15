@@ -1,9 +1,13 @@
 # Debian-Silence GRUB2 theme
 
-This is my take on [arch-silence](https://github.com/fghibellini/arch-silence) GRUB2 theme.
+This is my take on the [arch-silence](https://github.com/fghibellini/arch-silence) GRUB2 theme.
+
+I just changed the arch logo for the debian logo and changed the color blue to red, all credit goes to the originial author
+
+Note: I havent changed the helpbar yet as it required more than 5 minutes, I'll do it eventually xD
 
 <img src="./preview.png" width="400">
 
-## Original Author
+### Original Author:
 
-[Filippo Ghibellini](./LICENSE)
+[Filippo Ghibellini](https://github.com/fghibellini)
