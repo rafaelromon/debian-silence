@@ -6,10 +6,10 @@ I just changed the arch logo for the debian logo and changed the color blue to r
 
 <img src="./preview.png" width="480">
 
-I know i just photoshopped the preview image but i did the same for the resources so...
+I know i just photoshopped the preview image but i did the same for the resources so :D
 
 #### Missing Features:
-* I haven't changed the helpbar yet as it required more than 5 minutes, I'll do it eventually :D
+* I haven't changed the helpbar yet as it required more than 5 minutes, I'll do it eventually...
 
 ## Installation
 
